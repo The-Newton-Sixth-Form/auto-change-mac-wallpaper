@@ -1,4 +1,4 @@
-mv -f TheNewton_WP.JPEG /System/Library/Desktop Pictures/TheNewton_WP.JPEG
+mv -f TheNewton_WP.JPEG "/System/Library/Desktop Pictures/TheNewton_WP.JPEG"
 mv -f .startup_cleanup.sh ~/.startup_cheanup.sh
 chmod +x ~/.startup_cleanup.sh
 mv -f com.user.startupcleanup.plist ~/Library/LaunchAgents/com.user.startupcleanup.plist
